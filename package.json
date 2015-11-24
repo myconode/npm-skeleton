@@ -1,0 +1,15 @@
+{
+  "name": "npm-skeleton",
+  "description": "Baseline npm package for scaffolding",
+  "version": "0.1.0",
+  "author": "thelostspore <thelostspore@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thelostspore/npm-skeleton.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "keywords": ["npm package", "basic npm package", "minimal npm package"]
+}
